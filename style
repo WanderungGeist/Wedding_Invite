@@ -4,7 +4,6 @@
 }
 
 body {
-  
   text-align: center;
 }
 
@@ -12,7 +11,7 @@ body {
   background-color: #f0ece3;
   margin: 50px 700px 50px 700px;
   padding: 50px 0 50px 0;
-  font-family: 'Bonheur Royale',         cursive;
+  font-family: 'Bonheur Royale', cursive;
   font-family: 'Cinzel', serif;
   border-style: double;
   border-top: groove 2px #003b6f;
@@ -45,6 +44,7 @@ body {
 
 img {
   width: 200px;
+  border-radius: 25px;
 }
 
 .rsvp {
